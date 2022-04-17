@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "gambar": "product-images/baju1.jpg",
+    "nama": "Baju Formal Muslim",
+    "harga": "215.000",
+    "ukuran": "XL",
+    "contact": "<p> Email:adminjualanbaju.com </p> <p> Phone:083564376 </p> <p>Address:Jl.Ahmad Yani No.0 Surabaya </p>"
+  },
+  {
+    "id": 2,
+    "gambar": "product-images/baju2.jpg",
+    "nama": "Baju Koko Pria",
+    "harga": "250.000",
+    "ukuran": "L",
+    "contact": "<p> Email:bajukoko.com </p> <p> Phone:085123321231 </p> <p>Address:Jl.Suharto No.5 Surabaya </p>"
+  },
+  {
+    "id": 3,
+    "gambar": "product-images/baju3.jpg",
+    "nama": "Mukenah Muslim",
+    "harga": "150.000",
+    "ukuran": "L",
+    "contact": "<p> Email:mukenahmuslim.com </p> <p> Phone:083890098908 </p> <p>Address:Jl.Pahlawan No.10 Surabaya </p>"
+  },
+  {
+    "id": 4,
+    "gambar": "product-images/baju4.jpg",
+    "nama": "Baju Batik Cirebon ",
+    "harga": "500.000",
+    "ukuran": "XL",
+    "contact": "<p> Email:batikcirebon.com </p> <p> Phone:082456654546 </p> <p>Address:Jl.Ikan Hiu No.15 Surabaya </p>"
+  },
+  {
+    "id": 5,
+    "gambar": "product-images/baju5.jpg",
+    "nama": "Seragam SMA Putih Abu-Abu ",
+    "harga": "200.000",
+    "ukuran": "L",
+    "contact": "<p> Email:seragamsma.com </p> <p> Phone:083678876786 </p> <p>Address:Jl.Buah PIR No.20 Surabaya </p>"
+  },
+  {
+    "id": 6,
+    "gambar": "product-images/baju6.jpg",
+    "nama": "Seragam Pramuka ",
+    "harga": "200.000",
+    "ukuran": "L",
+    "contact": "<p> Email:salampramuka.com </p> <p> Phone:085102938475 </p> <p>Address:Jl.Bunga Mawar No.25 Surabaya </p>"
+  }
+]
